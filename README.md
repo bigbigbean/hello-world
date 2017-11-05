@@ -1,2 +1,5 @@
 # hello-world
-Just a test
+
+Hi, humans!
+
+I love python! Life is so short, let us use python!
